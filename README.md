@@ -1,2 +1,0 @@
-# laravel-docker-template
-Laravelのdockerテンプレート。
